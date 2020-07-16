@@ -12,6 +12,7 @@ Here are some examples of the different graphs:
 ![WordCloud](https://github.com/sraza1999/WhatsAppAnalyzer/blob/master/Graphs/AllMessagesWordCloud.png?raw=true)
 
 **Number of messages based on the Hour**
+
 ![hourly](https://github.com/sraza1999/WhatsAppAnalyzer/blob/master/Graphs/messagesByHourBar.png?raw=true)
 
 ## For the other graphs, please check out the Graphs folder!
